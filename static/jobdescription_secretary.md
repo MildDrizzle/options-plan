@@ -12,7 +12,10 @@
 * Perform analysis work on outstanding contracts under review, reviewing literature, writing summaries 
 * File any and all necessary forms whether online or using office fax machines to rectify any urgent situations for firm
 
+## Role
 
+* Manage relationship with firm extended network of business partners, accountants, staff
+* Be the gatekeeper and manage the flow of inbound calls and emails
 
 ## ETC
 
