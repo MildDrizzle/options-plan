@@ -3,6 +3,8 @@
 ## Responsibilities
 
 * Complete all business filings on time in a sustainable cadence
+* Ensure firm has policies in place to meet compliance standards 
+* Inspect requests to change policy so that updated policies will not lead to hazardous situations for employees
 * File reports electronically for balance sheets, income statements, cashflow statements
 * Review employee compensation and make requests for signatures for new hires, officers, outside counsel
 * Confirm receipt of documents and make necessary calls to secretary of state or tax offices if issue
