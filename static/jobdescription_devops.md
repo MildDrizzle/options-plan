@@ -1,6 +1,6 @@
-DEVOPS
+# DEVOPS
 
-Responsibilities  
+## Responsibilities  
 
 * Design, build and maintain highly scalable and reliable infrastructure, APIs, and services  
 * Define the vision for the backend infrastructure that supports our developer platform and APIs, 
