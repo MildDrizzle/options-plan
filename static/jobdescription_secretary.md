@@ -1,3 +1,15 @@
+# SECRETARY
+
+## Responsibilities
+
+* Complete all business filings on time in a sustainable cadence
+* File reports electronically for balance sheets, income statements, cashflow statements
+* Confirm receipt of documents and make necessary calls to secretary of state or tax offices if issue
+
+
+
+## ETC
+
 This means you will be trained to use company frameworks and tools such as email automation systems. An ideal candidate will quickly understand the value and ethos of the company and be able to convey that to new potential recruits. 
 
 We have requirements to recruit over 50 applicants across different departments each week. By leveraging our tool set you will meet business criteria and make necessary reports to management. 
