@@ -4,6 +4,7 @@
 
 * Complete all business filings on time in a sustainable cadence
 * File reports electronically for balance sheets, income statements, cashflow statements
+* Review employee compensation and make requests for signatures for new hires, officers, outside counsel
 * Confirm receipt of documents and make necessary calls to secretary of state or tax offices if issue
 * Monitor and ensure health status of company is in good standing
 * File any and all necessary forms whether online or using office fax machines to rectify any urgent situations for firm
