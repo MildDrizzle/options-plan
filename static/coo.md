@@ -11,6 +11,8 @@ Ensure an environment that promotes effective communications, positive employee 
 * 5-8+ years of related experience including supervisory experience
 * Previous experience as a group, team or project leader; other supervisory/leadership capacity in technical services or support is preferred. 
 * Knowledge of Bitcoin industry preferred not required. 
+* Several years of experience on structuring sales of businesses including methods for tax-free exchange of stock and purchase via cash and other considerations
+* Experience working with S Corporations and compliance work related to managing tax treatment of S Corporations akin to Partnerships
 
 
 Monitor performance improvement issues and provide appropriate coaching and counseling
@@ -19,6 +21,11 @@ Monitor performance improvement issues and provide appropriate coaching and coun
 
 Ideal candidate will also be competent in
 
+* Organize tax record so that it reflects up to date filings
+* Keep documentation server up to date for corporate ledger
+* Manage all documentation required for OSHA
+* Create policy to retain and protect company patents, copyrights, trademarks or other IP
+* Manage Payroll records
 * Technology skills in software engineering
 * Creating budgets and financial model
 * Familiar with creating equity models and general working knowledge about regulations involved in the sales of securities
