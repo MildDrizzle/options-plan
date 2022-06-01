@@ -5,6 +5,11 @@
 For all firm accounts that involve crypto assets, finance information such as bank apps, and cloud data storage applications such as GDrive, Notion, OneDriver, Github you are required to ensure MFA is set up for your accounts. Favor Virtual Authenticator level security over phone numnber as the second factor. But be sure to put a phone number backup method. 
 
 
+## HAVE A BACKUP PHONE
+
+Dual wield your Google Authenticators. When you scan on one phone, scan on the other phone. DO NOT SEND YOUR GOOGLE AUTHENTICATOR SEED QR OR BACKUP CODES OVER AN INTERNET CONNECTIONS.
+
+
 ## Airbnb
 
 If you are getting an airbnb make sure you have 2FA set up for your account. This is important for accounts that that you are sharing location data with. 
