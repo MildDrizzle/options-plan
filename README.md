@@ -1,5 +1,12 @@
 # Traveling checklist 
 
+## Backup Virtual Authenticator
+
+For all firm accounts that involve crypto assets, finance information such as bank apps, and cloud data storage applications such as GDrive, Notion, OneDriver, Github you are required to ensure MFA is set up for your accounts. Favor Virtual Authenticator level security over phone numnber as the second factor. But be sure to put a phone number backup method. 
+
+
+## Airbnb
+
 If you are getting an airbnb make sure you have 2FA set up for your account. This is important for accounts that that you are sharing location data with. 
 
 As a good practice reach out to Airbnb host ahead of time to confirm that their location is suitable for the trip One example is if there is a gated entry, keep the code of any electronic pin locks offline If it is a physical key, ask ahead of time if you are required to meet them at some location for them to give you the key, of if there is a lockbox, or if you have to talk to the owner of the convenience store 3 blocks over. 
