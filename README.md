@@ -1,5 +1,13 @@
 # Traveling checklist 
 
+## Secret Key Storage policy
+
+Do not store secret keys on unencrypted filesystems in any situation. If you have a MacBook, you must enable FireVault. Recommend storing backup phrases in a secure storage such as a lockbox. You may use Signal (notes to self) to store API keys and Client Secrets.
+
+## Password Storage policy
+
+Do not store passwords on your development machine filesystem if that directory is connected to a cloud storage system (such as OneDrive or DropBox). Do not store passwords in emails. 
+
 ## Backup Virtual Authenticator
 
 For all firm accounts that involve crypto assets, finance information such as bank apps, and cloud data storage applications such as GDrive, Notion, OneDriver, Github you are required to ensure MFA is set up for your accounts. Favor Virtual Authenticator level security over phone numnber as the second factor. But be sure to put a phone number backup method. 
